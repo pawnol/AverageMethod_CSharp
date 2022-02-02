@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\AverageMethod\bin\Debug\AverageMethod.exe.config
+C:\Users\Nolan Pawelski\Desktop\AverageMethod\bin\Debug\AverageMethod.exe
+C:\Users\Nolan Pawelski\Desktop\AverageMethod\bin\Debug\AverageMethod.pdb
+C:\Users\Nolan Pawelski\Desktop\AverageMethod\obj\Debug\AverageMethod.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\AverageMethod\obj\Debug\AverageMethod.exe
+C:\Users\Nolan Pawelski\Desktop\AverageMethod\obj\Debug\AverageMethod.pdb
